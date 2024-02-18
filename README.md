@@ -1,6 +1,6 @@
-- 👋 Hi, I’m yehone sew
+- 👋 Hi, I’m Alphanomics
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning at ALX
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on different types of projects
 - 📫 How to reach me ...
 
